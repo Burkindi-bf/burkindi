@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "Burkindi — Gestion de l'établissement scolaire",
+  "short_name": "Burkindi",
+  "description": "Gestion de l'établissement scolaire au Burkina Faso : emplois du temps, notes, bulletins, vie scolaire, courrier. Fonctionne sans internet.",
+  "lang": "fr",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F4F5F3",
+  "theme_color": "#0F5A45",
+  "categories": ["education", "productivity"],
+  "icons": [
+    { "src": "icone-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icone-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icone-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icone-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
